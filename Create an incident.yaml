@@ -39,5 +39,5 @@ integration:
                 input:
                   - variable: Trigger
                     $ref: '#/trigger/payload'
-  name: Create an incident
+  name: Create an incident with a long long name
 models: {}
